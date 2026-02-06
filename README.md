@@ -4,8 +4,10 @@
 
 ### ✨ Sobre mim
 
-- 🎓 Estudante de Sistemas de Informação no 6º período
-- 💻 Interessada em Engenharia de Software e Inteligência artificial
+- 🎓 Estudante de Sistemas de Informação no 6º período  
+- 💻 Interesse acadêmico em Engenharia de Software e Inteligência Artificial  
+- 🎯 Objetivo de aprimorar meus conhecimentos em programação por meio de estudos, atividades práticas  
+  e do desenvolvimento de projetos acadêmicos
 
 ### 🧩 Linguagens, Tecnologias & Ferramentas
 
